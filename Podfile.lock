@@ -1,0 +1,13 @@
+PODS:
+  - TOCropViewController (1.0.8)
+  - ZipKit (1.0.3)
+
+DEPENDENCIES:
+  - TOCropViewController
+  - ZipKit (~> 1.0.3)
+
+SPEC CHECKSUMS:
+  TOCropViewController: aef6fe14b8221fa2629047054f2e9d89f6a57c39
+  ZipKit: 594735e7ad2fd3ee7349759681a0423a1b296572
+
+COCOAPODS: 0.37.2
